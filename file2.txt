@@ -1,5 +1,6 @@
 second file
 1st addition
 2nd addition
-
-adding more here ufter changing my global name
+independent addition
+addition under new name (git config global)
+following additon (git global name private)
