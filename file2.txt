@@ -1,3 +1,4 @@
 second file
 independent addition
 addition under new name (git config global)
+following additon (git global name private)
