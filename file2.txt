@@ -1,2 +1,3 @@
 second file
 independent addition
+addition under new name (git config global)
